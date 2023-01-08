@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Link Saver",
+    "description": "Save Links",
+    "version": "0.9",
+
+    "action": {
+        "default_popup": "index.html"
+    },
+
+    "permissions": [
+        "tabs"
+    ]
+}
